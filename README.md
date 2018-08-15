@@ -10,7 +10,7 @@ Then you can compile the engine. After a successful compilation, use the Editor 
 
 # Screen Capture
 
-![The Optical Flow Screen]()
+![The Optical Flow Screen](https://github.com/ProfFan/UnrealOpticalFlowDemo/raw/images/images/demo.png)
 
 # Citation
 
