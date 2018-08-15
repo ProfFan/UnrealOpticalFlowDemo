@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/144809463.svg)](https://zenodo.org/badge/latestdoi/144809463)
+
 # Optical Flow from Unreal
 
 This project demonstrates how to get optical flow information from Unreal Engine for computer vision and AI training purposes.
@@ -15,6 +17,17 @@ Then you can compile the engine. After a successful compilation, use the Editor 
 # Citation
 
 If you found this work helpful in your research, please cite this repository.
+
+```
+@misc{fan_jiang_2018_1345482,
+  author       = {Fan Jiang},
+  title        = {Unreal Optical Flow Demo},
+  month        = aug,
+  year         = 2018,
+  doi          = {10.5281/zenodo.1345482},
+  url          = {https://doi.org/10.5281/zenodo.1345482}
+}
+```
 
 # LICENSE
 
