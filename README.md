@@ -19,6 +19,14 @@ Then you can compile the engine. After a successful compilation, use the Editor 
 If you found this work helpful in your research, please cite this repository.
 
 ```
+@INPROCEEDINGS{fan_jiang_icra19,
+  author       = {Fan Jiang and Qi Hao},
+  booktitle = {Robotics and Automation (ICRA), 2019 IEEE International Conference on}, 
+  title        = {Pavilion: Bridging Photo-Realism and Robotics},
+  month        = may,
+  year         = 2019,
+}
+
 @misc{fan_jiang_2018_1345482,
   author       = {Fan Jiang},
   title        = {Unreal Optical Flow Demo},
